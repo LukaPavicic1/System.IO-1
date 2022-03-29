@@ -1,0 +1,8 @@
+C:\Users\korisnik\source\repos\system.io\system.io\bin\Debug\system.io.exe.config
+C:\Users\korisnik\source\repos\system.io\system.io\bin\Debug\system.io.exe
+C:\Users\korisnik\source\repos\system.io\system.io\bin\Debug\system.io.pdb
+C:\Users\korisnik\source\repos\system.io\system.io\obj\Debug\system.io.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\system.io\system.io\obj\Debug\system.io.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\source\repos\system.io\system.io\obj\Debug\system.io.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\system.io\system.io\obj\Debug\system.io.exe
+C:\Users\korisnik\source\repos\system.io\system.io\obj\Debug\system.io.pdb
